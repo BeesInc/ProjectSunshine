@@ -1,0 +1,7 @@
+/* # is id, . is class */
+.mapTiles {
+	background: blue;
+	display:inline-block;
+	float:left;
+}
+
